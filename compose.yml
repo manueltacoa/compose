@@ -8,7 +8,7 @@
      ports:
        - 8080:80
    webplantilla:
-     build: ./websimple
+     build: ./webplantilla
      ports:
        - 8081:80
 
